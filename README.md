@@ -1,4 +1,4 @@
-# Project Setup Instructions
+## Project Setup Instructions
 
 ## Clone the Repository
 
