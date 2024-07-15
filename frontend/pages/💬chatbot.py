@@ -4,10 +4,7 @@ from utils.sidebarImg import build_markup_for_logo
 
 def main():
     st.title("Chatbot")
-    # logo_css = build_markup_for_logo("./assets/logo.png")
-    # st.markdown(logo_css, unsafe_allow_html=True)
-
-    # Display radio button for user type selection only on Chatbot page
+    
     st.sidebar.subheader("Select User Type")
     user_type = st.sidebar.radio(
         "User Type",
