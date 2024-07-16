@@ -2,16 +2,16 @@
 
 ## Clone the Repository
 
-### To clone the repository from the `task3-integration` branch, use the following command:
+### To clone the repository, use the following command:
 
 ```sh
-git clone --branch task3-integration --single-branch https://github.com/OmdenaAI/IREX-Colombia-DR.git
+git clone https://github.com/SamrawitMM/SimpleChatbot.git
 ```
 
 ### Navigate to the root directory
 
 ```sh
-cd IREX-Colombia-DR
+cd SimpleChatbot
 ```
 
 ### Create and Activate a Virtual Environemtn
